@@ -1,4 +1,6 @@
-# Welcome to your CDK C# project!
+# CDK c# lambda
+
+[.Net CDK Lambda](https://buildersbox.corp-sansan.com/entry/2021/05/31/110000)
 
 This is a blank project for CDK development with C#.
 
